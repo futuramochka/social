@@ -1,8 +1,8 @@
-
+import NavMenu from './nav-list/NavMenu';
 const Header = () => {
     return (
         <div>
-            <h1>Hello world!</h1>
+            <NavMenu />
         </div>
     )
 }
